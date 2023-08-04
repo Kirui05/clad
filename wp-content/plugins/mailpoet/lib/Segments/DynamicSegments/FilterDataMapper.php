@@ -242,7 +242,6 @@ class FilterDataMapper {
       return new DynamicSegmentFilterData(DynamicSegmentFilterData::TYPE_USER_ROLE, $data['action'], [
         'value' => $data['value'],
         'operator' => $data['operator'],
-        'action' => $data['action'],
         'connect' => $data['connect'],
       ]);
     }

@@ -1,0 +1,2 @@
+2023-08-03T11:24:27+00:00 CRITICAL Out of memory (allocated 77594624 bytes) (tried to allocate 65536 bytes) in C:\xampp\htdocs\clad\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Installer.php on line 22
+
