@@ -5,7 +5,7 @@ Requires PHP: 7.0
 Tested up to: 6.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.8.98
+Stable tag: 1.9.0
 
 == Description ==
 
@@ -23,6 +23,14 @@ It runs and adds its enhancements only if the Blocksy theme is installed and act
 2. Activate the plugin by going to **Plugins** page in WordPress admin and clicking on **Activate** link.
 
 == Changelog ==
+1.9.0: 2023-08-10
+- Improvement: General fixes and improvements
+
+1.8.99: 2023-08-09
+- Improvement: Better scoping of taxonomies in blocksy_posts shortcode while filtering
+- Improvement: Contact element - shortcode support in link field
+- Fix: Import/export options disappear if UI Press Lite plugin is active
+
 1.8.98: 2023-07-27
 - Improvement: General fixes and improvements
 

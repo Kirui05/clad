@@ -194,7 +194,10 @@ if ($args['view'] === 'slider') {
 		blc_cpt_extra_filtering_output([
 			'prefix' => $prefix,
 			'post_type' => $preferred_post_type,
-			'links_strategy' => 'current_page'
+			'links_strategy' => 'current_page',
+			'term_ids' => $args['term_ids'] ? $args['term_ids'] : [],
+			'exclude_term_ids' => $args['exclude_term_ids'] ? $args['exclude_term_ids'] : [],
+			'use_children_tax_ids' => $args['filtering_use_children_tax_ids'] === 'yes'
 		]);
 	}
 

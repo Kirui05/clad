@@ -1,0 +1,6 @@
+2023-08-11T09:10:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\clad\wp-admin\includes\template.php on line 12
+
+2023-08-11T21:27:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\clad\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-08-11T21:27:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\clad\wp-content\themes\blocksy\inc\panel-builder\footer\top-row\config.php on line 4
+

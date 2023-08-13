@@ -180,6 +180,7 @@ class ThemeIntegration {
 					'slider_autoplay' => 'no',
 
 					'filtering' => false,
+					'filtering_use_children_tax_ids' => false,
 
 					// 404 | skip
 					'no_results' => '404',

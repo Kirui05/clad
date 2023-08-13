@@ -12,7 +12,8 @@ class HeaderAdditions {
 			'customize_controls_enqueue_scripts',
 			function () {
 				$this->enqueue_static();
-			}
+			},
+			100
 		);
 
 		add_action(

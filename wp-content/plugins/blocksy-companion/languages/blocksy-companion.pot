@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-07-27 13:27+0000\n"
+"POT-Creation-Date: 2023-08-10 08:13+0000\n"
 "Project-Id-Version: undefined\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
@@ -67,7 +67,7 @@ msgid ""
 msgstr ""
 
 #: framework/extensions-manager.php:269,
-#: framework/premium/extensions/custom-fonts/extension.php:191
+#: framework/premium/extensions/custom-fonts/extension.php:188
 msgid "Custom Fonts"
 msgstr ""
 
@@ -78,7 +78,7 @@ msgid ""
 msgstr ""
 
 #: framework/extensions-manager.php:281,
-#: framework/premium/extensions/local-google-fonts/extension.php:225
+#: framework/premium/extensions/local-google-fonts/extension.php:208
 msgid "Local Google Fonts"
 msgstr ""
 
@@ -135,77 +135,77 @@ msgid ""
 "a wishlits page."
 msgstr ""
 
-#: framework/theme-integration.php:379,
+#: framework/theme-integration.php:380,
 #: framework/extensions/widgets/widgets/ct-facebook/options.php:16,
 #: framework/extensions/widgets/widgets/ct-facebook/view.php:12,
 #: framework/extensions/widgets/widgets/ct-facebook/widget.php:13
 msgid "Facebook"
 msgstr ""
 
-#: framework/theme-integration.php:380
+#: framework/theme-integration.php:381
 msgid "Twitter"
 msgstr ""
 
-#: framework/theme-integration.php:381
+#: framework/theme-integration.php:382
 msgid "LinkedIn"
 msgstr ""
 
-#: framework/theme-integration.php:382
+#: framework/theme-integration.php:383
 msgid "Dribbble"
 msgstr ""
 
-#: framework/theme-integration.php:383
+#: framework/theme-integration.php:384
 msgid "Instagram"
 msgstr ""
 
-#: framework/theme-integration.php:384
+#: framework/theme-integration.php:385
 msgid "Pinterest"
 msgstr ""
 
-#: framework/theme-integration.php:385
+#: framework/theme-integration.php:386
 msgid "WordPress"
 msgstr ""
 
-#: framework/theme-integration.php:386
+#: framework/theme-integration.php:387
 msgid "GitHub"
 msgstr ""
 
-#: framework/theme-integration.php:387,
+#: framework/theme-integration.php:388,
 #: framework/extensions/widgets/widgets/ct-contact-info/options.php:497,
 #: framework/extensions/widgets/widgets/ct-socials/options.php:100,
 #: framework/premium/features/content-blocks/options/archive.php:47
 msgid "Medium"
 msgstr ""
 
-#: framework/theme-integration.php:388
+#: framework/theme-integration.php:389
 msgid "YouTube"
 msgstr ""
 
-#: framework/theme-integration.php:389
+#: framework/theme-integration.php:390
 msgid "Vimeo"
 msgstr ""
 
-#: framework/theme-integration.php:390
+#: framework/theme-integration.php:391
 msgid "VKontakte"
 msgstr ""
 
-#: framework/theme-integration.php:391
+#: framework/theme-integration.php:392
 msgid "Odnoklassniki"
 msgstr ""
 
-#: framework/theme-integration.php:392
+#: framework/theme-integration.php:393
 msgid "TikTok"
 msgstr ""
 
-#: framework/theme-integration.php:393
+#: framework/theme-integration.php:394
 msgid "Mastodon"
 msgstr ""
 
-#: framework/theme-integration.php:469
+#: framework/theme-integration.php:470
 msgid "Companion"
 msgstr ""
 
-#: framework/theme-integration.php:487 static/js/screens/SiteExport.js:111
+#: framework/theme-integration.php:488 static/js/screens/SiteExport.js:111
 msgid "PRO"
 msgstr ""
 
@@ -4509,7 +4509,7 @@ msgid_plural "%s mins"
 msgstr[0] ""
 msgstr[1] ""
 
-#: framework/premium/extensions/post-types-extra/includes/filtering.php:301
+#: framework/premium/extensions/post-types-extra/includes/filtering.php:327
 msgid "All"
 msgstr ""
 
