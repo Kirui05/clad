@@ -2,3 +2,15 @@
 
 2023-11-26T17:10:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\clad\wp-includes\functions.php on line 6691
 
+2023-11-26T23:38:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\clad\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-11-26T23:38:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\clad\wp-includes\class-wpdb.php on line 2459
+
+2023-11-26T23:38:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\clad\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\Reviews.php on line 536
+
+2023-11-26T23:40:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\clad\wp-includes\class-wpdb.php on line 2459
+
+2023-11-26T23:40:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\clad\wp-includes\class-wpdb.php on line 2459
+
+2023-11-26T23:40:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\clad\wp-includes\class-wpdb.php on line 2459
+
